@@ -1,0 +1,9 @@
+{
+	"ip":"antitroll.mc-srv",
+	"port": "19810",
+	"name": "ThisIsBotDontReport",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register huhuhu huhuhu ",
+	"login-cmd":"/login huhuhu "
+}
