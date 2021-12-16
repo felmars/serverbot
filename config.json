@@ -1,9 +1,9 @@
 {
-	"ip":"antitroll.mc-srv.com",
+	"ip":"ult8.falix.gg:19810",
 	"port": "19810",
-	"name": "ThisIsBotDontReport",
+	"name": "KeruzaV2",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register huhuhu huhuhu ",
-	"login-cmd":"/login huhuhu "
+	"register-cmd":"/register huhuhu huhuhu",
+	"login-cmd":"/login huhuhu"
 }
