@@ -4,6 +4,6 @@
 	"name": "WellPledBro",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register huhuhu huhuhu",
-	"login-cmd":"/login huhuhu"
+	"register-cmd":"/register huhuhu huhuhu ",
+	"login-cmd":"/login huhuhu "
 }
